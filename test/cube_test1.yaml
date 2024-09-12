@@ -1,0 +1,6 @@
+---
+program: cube
+inputs:
+  num: 127324
+expected_outputs:
+  my_output: 50
