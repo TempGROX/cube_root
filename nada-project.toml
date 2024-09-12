@@ -1,0 +1,7 @@
+name = "cube"
+version = "0.0.1"
+authors = []
+
+[[programs]]
+path = "src/cube.py"
+prime_size = 128
